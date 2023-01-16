@@ -3,7 +3,7 @@
 
 The goal of this project is to develop a deep learning-based method for the detection of pneumonia in chest x-ray images. Pneumonia is a lung infection that causes inflammation and fluid buildup in the lungs, and it can be difficult to diagnose based on x-ray images alone. The goal of this project is to use a convolutional neural network (CNN) to automatically identify pneumonia in chest x-ray images. The CNN will be trained on a dataset of labeled chest x-ray images, and then used to classify new images as normal or indicating pneumonia. The project will also evaluate the performance of the CNN on a test set of chest x-ray images. The steps involved in this project are
 
-DATASET DRIVE LINK ==>  
+<b>DATASET DRIVE LINK<b/> ==>  
 
 Data Collection: The first step in this project is to acquire a comprehensive dataset of chest x-ray images for training and testing the CNN model. A suitable dataset for this purpose can be obtained from Kaggle, which is a platform that hosts a wide variety of datasets for machine learning tasks. The dataset should include a mix of normal and pneumonia x-ray images, and it is essential to ensure that it is diverse and representative of the population. The data can be easily downloaded from Kaggle platform, which will be used as the primary source of data for this project.
 
