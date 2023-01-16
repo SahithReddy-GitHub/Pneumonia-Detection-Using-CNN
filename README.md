@@ -2,12 +2,13 @@
 
 
 The goal of this project is to develop a deep learning-based method for the detection of pneumonia in chest x-ray images. Pneumonia is a lung infection that causes inflammation and fluid buildup in the lungs, and it can be difficult to diagnose based on x-ray images alone. The goal of this project is to use a convolutional neural network (CNN) to automatically identify pneumonia in chest x-ray images. The CNN will be trained on a dataset of labeled chest x-ray images, and then used to classify new images as normal or indicating pneumonia. The project will also evaluate the performance of the CNN on a test set of chest x-ray images. The steps involved in this project are
-
-<b>DATASET DRIVE LINK<b/> ==>  
+ 
 
 Data Collection: The first step in this project is to acquire a comprehensive dataset of chest x-ray images for training and testing the CNN model. A suitable dataset for this purpose can be obtained from Kaggle, which is a platform that hosts a wide variety of datasets for machine learning tasks. The dataset should include a mix of normal and pneumonia x-ray images, and it is essential to ensure that it is diverse and representative of the population. The data can be easily downloaded from Kaggle platform, which will be used as the primary source of data for this project.
 
 Data Preprocessing - Once the dataset is collected, it needs to be preprocessed to make it ready for training the CNN. This includes tasks such as resizing the images to a consistent size, normalizing the pixel values, and possibly removing any irrelevant information from the images. The images were resized to 256x256 pixels to improve the accuracy of the model
+
+RESIZED DATASET DRIVE LINK ==> https://drive.google.com/drive/folders/1CuoqaNFHGjI3Ti2MCjUtJRDjB3l9a2IC?usp=sharing
 
 CNN Model Selection - A basic CNN model was selected for this project as it is a good starting point for image classification tasks and provides a foundation for more complex models. The basic CNN model includes several layers such as the convolutional layers, pooling layers, and fully connected layers, which are responsible for extracting features from the images and classifying them as normal or indicating pneumonia. The basic CNN model can be fine-tuned and optimized for better performance on the dataset.
 
