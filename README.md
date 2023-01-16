@@ -18,7 +18,7 @@ Model Evaluation - After the CNN model was trained on the dataset, the next step
 
 ==> It is important to note that this project could be improved by incorporating more advanced techniques such as data augmentation, transfer learning, and ensemble methods to improve the model's performance.
 
-# Pneumonia-Detection-Using-Inceptio-V3
+# Pneumonia-Detection-Using-Inception-V3
 
 To improve the accuracy of the model, a pre-trained convolutional neural network (CNN) model called Inception-V3 was used for this project. Inception-V3 is a well-known model that has been trained on a large dataset and has achieved state-of-the-art performance on several image classification tasks.
 
