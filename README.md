@@ -1,4 +1,4 @@
-# Pneumonia-Detection-Using-Deep-Learning
+# Pneumonia-Detection-Using-CNN
 
 
 The goal of this project is to develop a deep learning-based method for the detection of pneumonia in chest x-ray images. Pneumonia is a lung infection that causes inflammation and fluid buildup in the lungs, and it can be difficult to diagnose based on x-ray images alone. The goal of this project is to use a convolutional neural network (CNN) to automatically identify pneumonia in chest x-ray images. The CNN will be trained on a dataset of labeled chest x-ray images, and then used to classify new images as normal or indicating pneumonia. The project will also evaluate the performance of the CNN on a test set of chest x-ray images. The steps involved in this project are
